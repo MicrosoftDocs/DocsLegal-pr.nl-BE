@@ -1,12 +1,13 @@
 ---
 # required metadata
+
 title: Algemene Verordening Gegevensbescherming (AVG)
-description: AVG docs.microsoft.com.
+description: GDPR docs.microsoft.com.
 ms.topic: article
 layout: ContentPage
 ---
 
-# <a name="microsofts-gdpr-commitments-to-customers-of-our-generally-available-enterprise-software-products"></a>De AVG-verbintenissen van Microsoft tegenover klanten van onze algemeen beschikbaar bedrijfssoftwareproducten
+# De AVG-verbintenissen van Microsoft tegenover klanten van onze algemeen beschikbaar bedrijfssoftwareproducten
 
 **Inleiding**
 
@@ -20,7 +21,7 @@ Ja. De AVG vereist dat beheerders (zoals organisaties en ontwikkelaars die onlin
 
 **Waar kan ik de contractuele verplichtingen van Microsoft met betrekking tot de AVG vinden?**
 
-U kan de contractuele verplichtingen van Microsoft met betrekking tot de AVG vinden in de [Voorwaarden voor Online Diensten](https://na01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.microsoftvolumelicensing.com%2FDocumentSearch.aspx%3FMode%3D3%26DocumentTypeId%3D46&data=04%7C01%7Ccolvog%40microsoft.com%7C4d7ac59082394bd57e5808d57b0e0368%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C636550222480031404%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwifQ%3D%3D%7C-1&sdata=tbYN10WQtaVgss%2FPzHELXV2VDU8J20VP5bmzIydEZYA%3D&reserved=0) die de privacy- en veiligheidsverplichtingen van Microsoft bevatten, samen met de voorwaarden voor gegevensverwerking en AVG-voorwaarden voor diensten waarop klanten zich abonneren volgens een volumelicentieovereenkomst. De AVG-voorwaarden worden vermeld op het einde van het document in Bijlage 4 van de Voorwaarden voor Online Diensten, en ze verbinden Microsoft tot de vereisten voor verwerkers volgens AVG Artikel 28 en andere relevante artikels van de AVG. 
+U kan de contractuele verplichtingen van Microsoft met betrekking tot de AVG vinden in de [Bijlage Bescherming van persoonsgegevens voor Online Diensten](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=2&Keyword=DPA), die de privacy- en veiligheidsverplichtingen van Microsoft bevatten, samen met de voorwaarden voor gegevensverwerking en AVG-voorwaarden voor diensten waarop klanten zich abonneren volgens een volumelicentieovereenkomst. Deze voorwaarden verbinden Microsoft tot de vereisten van de verwerkers in AVG Artikel 28 en andere relevante artikelen van de AVG. 
 
 Met ingang van 25 mei 2018 breidt Microsoft de AVG-Voorwaarden uit naar alle klanten van algemeen beschikbare bedrijfssoftwareproducten onder licentie bij ons of onze dochterondernemingen, ongeacht de van toepassing zijnde versie van de bedrijfssoftware, voor zover Microsoft een verwerker of sub-verwerker van persoonsgegevens is met betrekking tot dergelijke software, en zolang Microsoft de versie blijft aanbieden of ondersteunen. Ondersteuningsgegevens kan u vinden in de Microsoft Lifecyle Policy op https://support.microsoft.com/en-us/lifecycle.
 
@@ -30,12 +31,12 @@ Voor de duidelijkheid, andere of mindere verplichtingen kunnen van toepassing zi
 
 De AVG-Voorwaarden van Microsoft geven de verplichtingen weer die vereist zijn van verwerkers volgens Artikel 28 van de AVG.  Artikel 28 vereist dat verwerkers zich ertoe verbinden om:
 
--   enkel sub-verwerkers te gebruiken met de toestemming van de beheerder en aansprakelijk te blijven voor sub-verwerkers;
--   persoonsgegevens enkel te verwerken volgens de instructies van de beheerder, inclusief met betrekking tot overdrachten;
--   te verzekeren dat personen die persoonsgegevens verwerken, zich tot vertrouwelijkheid verbinden;
--   gepaste technische en organisatorische maatregelen op te leggen om een niveau van beveiliging voor persoonsgegevens te verzekeren dat gepast is voor het risico;
--   de beheerder bij te staan in zijn verplichtingen om verzoeken van de betrokkenen te beantwoorden om hun AVG-rechten uit te oefenen;
--   te voldoen aan de vereisten voor kennisgeving van inbreuk en bijstand van de AVG;
--   de beheerder bij te staan met effectbeoordelingen inzake gegevensbescherming en overleg met toezichthoudende autoriteiten; 
--   persoonsgegevens op het einde van de dienstverlening te verwijderen of terug te geven; en
--   de beheerder te ondersteunen met bewijs van naleving van de AVG.
+-	enkel sub-verwerkers te gebruiken met de toestemming van de beheerder en aansprakelijk te blijven voor sub-verwerkers;
+-	persoonsgegevens enkel te verwerken volgens de instructies van de beheerder, inclusief met betrekking tot overdrachten;
+-	te verzekeren dat personen die persoonsgegevens verwerken, zich tot vertrouwelijkheid verbinden;
+-	gepaste technische en organisatorische maatregelen op te leggen om een niveau van beveiliging voor persoonsgegevens te verzekeren dat gepast is voor het risico;
+-	de beheerder bij te staan in zijn verplichtingen om verzoeken van de betrokkenen te beantwoorden om hun AVG-rechten uit te oefenen;
+-	te voldoen aan de vereisten voor kennisgeving van inbreuk en bijstand van de AVG;
+-	de beheerder bij te staan met effectbeoordelingen inzake gegevensbescherming en overleg met toezichthoudende autoriteiten; 
+-	persoonsgegevens op het einde van de dienstverlening te verwijderen of terug te geven; en
+-	de beheerder te ondersteunen met bewijs van naleving van de AVG.
