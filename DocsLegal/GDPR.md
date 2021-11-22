@@ -2,31 +2,32 @@
 title: Algemene Verordening Gegevensbescherming (AVG)
 description: AVG docs.microsoft.com.
 ms.topic: article
+ms.prod: legal
 layout: ContentPage
-ms.openlocfilehash: 404e4ccc5cb1d791fb46afc81c7d9b7bc656121c
-ms.sourcegitcommit: 6925c5b4ad2faff22d877acd2e07e09d289b5507
+ms.openlocfilehash: 91a5f1a3c93dbf5e50ab9842e63747fc9e443fe3
+ms.sourcegitcommit: 92176e791cecbf38ca4118125466148737f3e45f
 ms.translationtype: HT
 ms.contentlocale: nl-BE
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "77570465"
+ms.lasthandoff: 09/29/2021
+ms.locfileid: "129189140"
 ---
 # <a name="microsofts-gdpr-commitments-to-customers-of-our-generally-available-enterprise-software-products"></a>AVG-verbintenissen van Microsoft tegenover klanten betreffende onze algemeen verkrijgbare Enterprise Software-producten
 
 **Inleiding**
 
-De algemene verordening gegevensbescherming (AVG) van de Europese Unie zet wereldwijd een nieuwe standaard voor privacyrechten, informatiebeveiliging en naleving. Bij Microsoft geloven we dat privacy een fundamenteel recht is en dat de AVG een belangrijke stap voorwaarts is in het beschermen en bevorderen van de privacyrechten van individuen.     
+De algemene verordening gegevensbescherming (AVG) van de Europese Unie zet wereldwijd een belangrijke standaard voor privacyrechten, informatiebeveiliging en naleving. Bij Microsoft geloven we dat privacy een fundamenteel recht is en dat de AVG een belangrijke stap voorwaarts is in het beschermen en bevorderen van de privacyrechten van individuen.     
 
-Microsoft zet zich in voor haar eigen naleving van de AVG, evenals voor het leveren van een gamma van producten, functies, documentatie en middelen om onze klanten te ondersteunen bij het voldoen aan hun nalevingsverplichtingen onder de AVG. Hierna volgt een beschrijving van de contractuele verplichtingen van Microsoft ten aanzien van haar klanten met betrekking tot persoonsgegevens die zijn verzameld met behulp van enterprise software:
+Microsoft zet zich in voor haar eigen naleving van de AVG, evenals voor het leveren van een gamma van producten, functies, documentatie en middelen om onze klanten te ondersteunen bij het voldoen aan hun nalevingsverplichtingen onder de AVG. Hierna volgt een beschrijving van de contractuele verplichtingen van Microsoft ten aanzien van haar klanten met betrekking tot persoonsgegevens die zijn verzameld met behulp van enterprise software. (Voor software waarvoor licentie wordt verleend via het commerciële licentieprogramma van Microsoft moet u rechtstreeks verwijzen naar de Addendum gegevensbescherming voor Microsoft-producten en -services (DPA) op http://aka.ms/dpa)
 
 **Gaat Microsoft verbintenissen aan met haar klanten met betrekking tot de AVG?**
 
-Ja. De AVG schrijft voor dat de verwerkingsverantwoordelijken (zoals organisaties en ontwikkelaars die gebruikmaken van de enterprise online diensten van Microsoft) alleen verwerkers (zoals Microsoft) gebruiken die namens de verwerkingsverantwoordelijken persoonsgegevens verwerken en voldoende garanties bieden om aan de belangrijkste eisen van de AVG te voldoen. Microsoft heeft de proactieve stap genomen om deze verbintenissen aan te gaan met alle klanten van enterprise online-diensten als onderdeel van hun abonnementsovereenkomsten en ook met klanten met volumelicenties als onderdeel van hun enterprise-overeenkomsten. Klanten van andere algemeen verkrijgbare enterprise software onder licentie van Microsoft of onze gelieerde ondernemingen genieten ook de voordelen van de AVG-verplichtingen van Microsoft, zoals beschreven in deze mededeling, voor zover de software persoonsgegevens verwerkt.
+Ja. De AVG schrijft voor dat de verwerkingsverantwoordelijken (zoals organisaties en ontwikkelaars die gebruikmaken van de enterprise online diensten van Microsoft) alleen verwerkers (zoals Microsoft) gebruiken die namens de verwerkingsverantwoordelijken persoonsgegevens verwerken en voldoende garanties bieden om aan de belangrijkste eisen van de AVG te voldoen. Microsoft levert deze verbintenissen aan alle klanten van het commerciële licentieprogramma van Microsoft in DPA. Klanten van andere algemeen verkrijgbare enterprise software onder licentie van Microsoft of onze gelieerde ondernemingen genieten ook de voordelen van de AVG-verplichtingen van Microsoft, zoals beschreven in deze mededeling, voor zover de software persoonsgegevens verwerkt.
 
 **Waar vind ik de contractuele verbintenissen van Microsoft met betrekking tot de AVG?**
 
-U kunt de contractuele verbintenissen van Microsoft met betrekking tot de AVG terugvinden in de [Bijlage Bescherming van persoonsgegevens voor Online Diensten van Microsoft](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=2&Keyword=DPA), die de verbintenissen van Microsoft ten aanzien van privacy en beveiliging omvatten, alsook de gegevensverwerkingsvoorwaarden en de AVG-voorwaarden voor door Microsoft gehoste diensten waarvoor klanten zich inschrijven onder een volumelicentieovereenkomst. Deze voorwaarden verbinden Microsoft tot de vereisten van de verwerkers in AVG Artikel 28 en andere relevante artikelen van de AVG. 
+U vindt de contractuele verbintenissen ten overstaan van de AVG (AVG-bepalingen) in de bijlage van de DPA onder te titel "Algemene bepalingen gegevensbeschermin van de Europese Unie". Deze voorwaarden verbinden Microsoft tot de vereisten van de verwerkers in AVG Artikel 28 en andere relevante artikelen van de AVG. 
 
-Microsoft breidt de AVG-voorwaarden uit tot alle klanten van algemeen verkrijgbare enterprise softwareproducten die door ons of onze gelieerde ondernemingen in licentie zijn gegeven onder de licentievoorwaarden van Microsoft-software, met ingang van 25 mei 2018, ongeacht de toepasselijke versie van de enterprise software, voor zover Microsoft een verwerker of subverwerker is van persoonsgegevens in verband met dergelijke software, en zolang Microsoft de versie blijft aanbieden of ondersteunen. Meer informatie vindt u in het Microsoft Lifecyle-beleid op https://support.microsoft.com/en-us/lifecycle.
+Microsoft breidt de AVG-voorwaarden uit tot alle klanten van algemeen verkrijgbare enterprise softwareproducten die door ons of onze gelieerde ondernemingen in licentie zijn gegeven onder de licentievoorwaarden van Microsoft-software, met ingang van 25 mei 2018, ongeacht de toepasselijke versie van de enterprise software, voor zover Microsoft een verwerker of subverwerker is van persoonsgegevens in verband met dergelijke software, en zolang Microsoft de versie blijft aanbieden of ondersteunen. Meer informatie vindt u in het Microsoft Lifecyle-beleid op https://support.microsoft.com/lifecycle.
 
 Voor alle duidelijkheid: voor beta- of voorbeeldsoftware, software die wezenlijk is gewijzigd, of software die door Microsoft of onze geaffilieerden in licentie is gegeven en die niet algemeen verkrijgbaar is voor het publiek of anderszins niet in licentie is gegeven onder de licentievoorwaarden van Microsoft-software, kunnen andere of minder belangrijke verplichtingen gelden. Sommige producten kunnen standaard telemetrie- of andere gegevens verzamelen en naar Microsoft sturen; productdocumentatie bevat informatie en instructies voor het uitschakelen of configureren van het op dergelijke wijze verzamelen van telemetriegegevens.
 
