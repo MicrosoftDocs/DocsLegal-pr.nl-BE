@@ -11,11 +11,11 @@ ms.technology: ''
 ms.assetid: 674fcfe7-14bb-4fe1-8a25-cbe6eca5dcd1
 layout: ContentPage
 ms.openlocfilehash: 904b079bf9580699105e1f73836cb8f1127c101f
-ms.sourcegitcommit: 3cfbabd1cd8dac0925815ab42ae1640787749fb7
+ms.sourcegitcommit: 608034089d1ea70317f64b4562eee1614c447d8f
 ms.translationtype: HT
 ms.contentlocale: nl-BE
-ms.lasthandoff: 08/14/2021
-ms.locfileid: "122177364"
+ms.lasthandoff: 04/01/2022
+ms.locfileid: "141347450"
 ---
 # <a name="docsmicrosoftcom---terms-of-use"></a>docs.microsoft.com - Gebruiksvoorwaarden
 
@@ -49,7 +49,7 @@ ONVERMINDERD HET VOORGAANDE, GELDT DAT HET KOPIËREN OF VERVEELVOUDIGEN VAN DE S
 
 DE SOFTWARE WORDT GELEVERD MET GARANTIES, VOOR ZOVER DIE ER ZIJN, UITSLUITEND IN OVEREENSTEMMING MET DE BEPALINGEN IN DE LICENTIEOVEREENKOMST. BEHOUDENS DE IN DE LICENTIEOVEREENKOMST VERLEENDE GARANTIES, WIJST MICROSOFT CORPORATION BIJ DEZE ALLE GARANTIES MET BETREKKING TOT DE SOFTWARE, MET INBEGRIP VAN ALLE GARANTIES EN VOORWAARDEN MET BETREKKING TOT VERKOOPBAARHEID, ZOWEL EXPLICIET, IMPLICIET ALS WETTELIJK BEPAALD, GESCHIKTHEID VOOR EEN BEPAALD DOEL OF EIGENDOM, OF GARANTIES DAT DEZE NIET INBREUKMAKEND ZIJN, VAN DE HAND. HET IS MOGELIJK DAT MICROSOFT VOOR UW GEMAK ALS ONDERDEEL VAN DE DIENSTEN OF IN HAAR SOFTWARE PROGRAMMA'S EN HULPPROGRAMMA'S BESCHIKBAAR STELT VOOR GEBRUIK EN/OF DOWNLOAD. MICROSOFT GEEFT GEEN ENKELE GARANTIE MET BETREKKING TOT DE CORRECTHEID VAN DE RESULTATEN OF DE UITVOER DIE VOORTVLOEIEN UIT DERGELIJK GEBRUIK VAN DERGELIJKE PROGRAMMA’S EN HULPPROGRAMMA’S. RESPECTEER DE INTELLECTUELE EIGENDOMSRECHTEN VAN ANDEREN BIJ HET GEBRUIK VAN DE PROGRAMMA'S EN HULPPROGRAMMA'S DIE VIA DE DIENSTEN, OF IN MICROSOFT SOFTWAREPRODUCTEN BESCHIKBAAR WORDEN GESTELD.
 
-MEDEDELING BETREFFENDE BEPERKTE RECHTEN. Alle software die via deze Diensten wordt gedownload voor of ten behoeve van de Verenigde Staten van Amerika of instanties en/of overheidsinstellingen van de Verenigde Staten ("Amerikaanse overheid”), wordt verschaft met Beperkte rechten. Gebruik, verveelvoudiging of openbaarmaking door de Amerikaanse overheid is onderworpen aan beperkingen zoals vermeld in subparagraaf (c)(1)(ii) van de bepaling omtrent Rights in Technical Data and Computer Software in DFARS 252-227-7013 of subparagraaf (c)(1) en (2) van de Commercial Computer Software - Restricted Rights in 48 CFR 52.227-19, welke van toepassing is. Fabrikant is Microsoft Corporation, One Microsoft Way, Redmond, WA 98052-6399.
+MEDEDELING BETREFFENDE BEPERKTE RECHTEN. Alle software die via deze Diensten wordt gedownload voor of ten behoeve van de Verenigde Staten van Amerika of instanties en/of overheidsinstellingen van de Verenigde Staten ("Amerikaanse overheid”), wordt verschaft met Beperkte rechten. Gebruik, duplicatie of openbaarmaking door de VS. De overheid is onderworpen aan beperkingen zoals uiteengezet in subparagraaf (c)(1)(ii) van de clausule Rechten in technische gegevens en computersoftware op DFARS 252.227-7013 of subparagraafen (c)(1) en (2) van de wet inzake commerciële computersoftware - Beperkte rechten 48 CFR 52.227-19, zoals van toepassing. Fabrikant is Microsoft Corporation, One Microsoft Way, Redmond, WA 98052-6399.
 
 ## <a name="notice-specific-to-documents-available-on-this-website"></a>Specifieke kennisgeving met betrekking tot op deze website beschikbare documenten
 
