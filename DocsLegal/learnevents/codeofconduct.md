@@ -1,15 +1,15 @@
 ---
 # required metadata
 
-title: Learn TV Gedragscode
-description: Code of Conduct for Microsoft Learn TV
+title: Learn-evenementen Gedragscode
+description: Gedragscode voor evenementen die worden gestreamd op Microsoft Learn
 ms.topic: article
 layout: ContentPage
 ms.author: brstegge
 ms.date: 11/02/2020
 ---
 
-# Learn TV Gedragscode
+# Learn-evenementen Gedragscode
 
 De missie van Microsoft is om elke persoon en elke organisatie op aarde in staat te stellen meer te bereiken. Dit omvat alle Microsoft-evenementen en -bijeenkomsten, ook op digitale platforms, waarbij we streven naar een respectvolle, vriendelijke, leuke en inclusieve ervaring voor alle deelnemers.
 
