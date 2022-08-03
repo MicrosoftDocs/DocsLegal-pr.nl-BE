@@ -5,11 +5,11 @@ ms.topic: article
 ms.prod: legal
 layout: ContentPage
 ms.openlocfilehash: 91a5f1a3c93dbf5e50ab9842e63747fc9e443fe3
-ms.sourcegitcommit: 92176e791cecbf38ca4118125466148737f3e45f
+ms.sourcegitcommit: 608034089d1ea70317f64b4562eee1614c447d8f
 ms.translationtype: HT
 ms.contentlocale: nl-BE
-ms.lasthandoff: 09/29/2021
-ms.locfileid: "129189140"
+ms.lasthandoff: 04/01/2022
+ms.locfileid: "141347351"
 ---
 # <a name="microsofts-gdpr-commitments-to-customers-of-our-generally-available-enterprise-software-products"></a>AVG-verbintenissen van Microsoft tegenover klanten betreffende onze algemeen verkrijgbare Enterprise Software-producten
 

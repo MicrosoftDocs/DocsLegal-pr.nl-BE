@@ -6,12 +6,12 @@ ms.author: jken
 ms.prod: legal
 ms.topic: article
 ms.date: 11/25/2020
-ms.openlocfilehash: ca61babedc9df58569c63db0607711eda4a121d95a762575efe64018e97d7a0d
-ms.sourcegitcommit: 0584fd7cc06107cd26400dda9605dded5878c786
+ms.openlocfilehash: fb025dc184b95fd2e4ab9331d36fce7cd5672471
+ms.sourcegitcommit: 608034089d1ea70317f64b4562eee1614c447d8f
 ms.translationtype: HT
 ms.contentlocale: nl-BE
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "116417827"
+ms.lasthandoff: 04/01/2022
+ms.locfileid: "141347270"
 ---
 # <a name="microsoft-legal-resources-on-docsmicrosoftcom"></a>Microsoft juridische bronnen op Docs.microsoft.com
 
