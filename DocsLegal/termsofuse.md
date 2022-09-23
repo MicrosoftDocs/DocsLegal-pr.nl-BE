@@ -1,31 +1,31 @@
 ---
 title: Gebruiksvoorwaarden
-description: Gebruiksvoorwaarden voor documentatie op docs.microsoft.com.
+description: Gebruiksvoorwaarden voor documentatie op learn.microsoft.com.
 keywords: ''
 author: ''
 manager: ''
-ms.date: 09/19/2018
+ms.date: 09/17/2022
 ms.topic: article
 ms.prod: legal
 ms.technology: ''
 ms.assetid: 674fcfe7-14bb-4fe1-8a25-cbe6eca5dcd1
 layout: ContentPage
-ms.openlocfilehash: 904b079bf9580699105e1f73836cb8f1127c101f
-ms.sourcegitcommit: 608034089d1ea70317f64b4562eee1614c447d8f
+ms.openlocfilehash: 626e266caf6ba6b46149899bd8d6a78bb42302f2
+ms.sourcegitcommit: c60983f87856c154a8d94b208aea0d417c51b8b1
 ms.translationtype: HT
 ms.contentlocale: nl-BE
-ms.lasthandoff: 04/01/2022
-ms.locfileid: "141347450"
+ms.lasthandoff: 09/17/2022
+ms.locfileid: "147949556"
 ---
-# <a name="docsmicrosoftcom---terms-of-use"></a>docs.microsoft.com - Gebruiksvoorwaarden
+# <a name="learnmicrosoftcom---terms-of-use"></a>learn.microsoft.com - Gebruiksvoorwaarden
 
 ## <a name="acceptance-of-terms"></a>Instemming met de Voorwaarden
 
-De volgende Gebruiksvoorwaarden zijn van toepassing op uw gebruik van de Microsoft Docs-website ([https://docs.microsoft.com](https://docs.microsoft.com)), Tech Profile ([https://techprofile.microsoft.com](https://techprofile.microsoft.com)) en gerelateerde diensten. Microsoft behoudt zich het recht voor om deze Gebruiksvoorwaarden op elk gewenst moment en zonder voorafgaande kennisgeving aan te passen. U vindt de nieuwste versie van deze Gebruiksvoorwaarden door te klikken op de gelijknamige koppeling onderaan onze webpagina's.
+De volgende Gebruiksvoorwaarden zijn van toepassing op uw gebruik van de Microsoft Learn-website ([https://learn.microsoft.com](https://learn.microsoft.com)), Tech Profile en de gerelateerde diensten. Microsoft behoudt zich het recht voor om deze Gebruiksvoorwaarden op elk gewenst moment en zonder voorafgaande kennisgeving aan te passen. U vindt de nieuwste versie van deze Gebruiksvoorwaarden door te klikken op de gelijknamige koppeling onderaan onze webpagina's.
 
 ## <a name="description-of-service"></a>Beschrijving van dienst
 
-Door middel van de Microsoft Docs website, Tech Profile en gerelateerde diensten biedt Microsoft u toegang tot diverse informatiebronnen, met inbegrip van interactieve handleidingen, documentatie, video's, ontwikkelaarstools, downloadgebieden, communicatieforums en productinformatie (tezamen de “Diensten”). Op de Diensten, met inbegrip van eventuele updates, uitbreidingen, nieuwe functionaliteit, en/of de toevoeging van nieuwe webmogelijkheden zijn de Gebruiksvoorwaarden van toepassing.
+Door middel van de Microsoft Learn-website, Tech Profile en gerelateerde diensten biedt Microsoft u toegang tot diverse informatiebronnen, met inbegrip van interactieve trainingen, documentatie, video's, ontwikkelaarstools, downloadgebieden, communicatieforums en productinformatie (tezamen de “Diensten”). Op de Diensten, met inbegrip van eventuele updates, uitbreidingen, nieuwe functionaliteit, en/of de toevoeging van nieuwe webmogelijkheden zijn de Gebruiksvoorwaarden van toepassing.
 
 ## <a name="personal-and-non-commercial-use-limitation"></a>Beperking tot persoonlijk en niet-commercieel gebruik.
 
@@ -60,7 +60,7 @@ Onder de hierboven genoemde Documenten vallen niet het ontwerp of de lay-out van
 
 ## <a name="disclaimer-and-limitation-of-liability-for-the-services"></a>Afwijzing en aansprakelijkheidsbeperking voor de Diensten
 
-MICROSOFT EN/OF HAAR RESPECTIEVE LEVERANCIERS DOEN GEEN VERKLARINGEN BETREFFENDE DE GESCHIKTHEID VAN DE DIENSTEN OF DE GESCHIKTHEID VAN DE INFORMATIE IN DE DOCUMENTEN EN DE BIJBEHORENDE AFBEELDINGEN DIE WORDEN GEPUBLICEERD ALS ONDERDEEL VAN DE DIENSTEN VOOR ENIG DOEL. ALLE DIENSTEN, DOCUMENTEN EN VERWANTE AFBEELDINGEN WORDEN IN DE HUIDIGE STAAT AANGEBODEN, ZONDER ENIGE VORM VAN GARANTIE. MICROSOFT EN/OF HAAR RESPECTIEVE LEVERANCIERS WIJZEN BIJ DEZE ALLE GARANTIES MET BETREKKING TOT DE DIENSTEN, INFORMATIE EN GERELATEERDE AFBEELDINGEN, MET INBEGRIP VAN ALLE GARANTIES MET BETREKKING TOT VERKOOPBAARHEID, UITDRUKKELIJK, IMPLICIET OF WETTELIJK, GESCHIKTHEID VOOR EEN BEPAALD DOEL, EIGENDOM EN HET NIET INBREUKMAKEND KARAKTER VAN DE INFORMATIE, VAN DE HAND. IN GEEN GEVAL ZIJN MICROSOFT EN/OF HAAR RESPECTIEVE TOELEVERANCIERS AANSPRAKELIJK VOOR ENIGE SPECIALE, INDIRECTE OF GEVOLGSCHADE, OF ENIGE SCHADE ALS GEVOLG VAN HET ONVERMOGEN TOT GEBRUIK, VERLIES VAN GEGEVENS OF GEDERFDE WINST, HETZIJ CONTRACTUEEL, HETZIJ UIT HOOFDE VAN NALATIGHEID OF ANDERE ONRECHTMATIGE DAAD, ALS GEVOLG VAN OF IN VERBAND MET DE DIENSTEN, MET INBEGRIP VAN HET GEBRUIK OF DE UITVOERING VAN DE INFORMATIE DIE BESCHIKBAAR IS VIA DE DIENSTEN.
+MICROSOFT EN/OF HAAR RESPECTIEVE LEVERANCIERS DOEN GEEN VERKLARINGEN BETREFFENDE DE GESCHIKTHEID VAN DE DIENSTEN OF DE GESCHIKTHEID VAN DE INFORMATIE IN DE DOCUMENTEN EN DE BIJBEHORENDE AFBEELDINGEN DIE WORDEN GEPUBLICEERD ALS ONDERDEEL VAN DE DIENSTEN VOOR ENIG DOEL. ALLE DIENSTEN, DOCUMENTEN EN VERWANTE AFBEELDINGEN WORDEN IN DE HUIDIGE STAAT AANGEBODEN, ZONDER ENIGE VORM VAN GARANTIE. MICROSOFT EN/OF HAAR RESPECTIEVE LEVERANCIERS WIJZEN BIJ DEZE ALLE GARANTIES MET BETREKKING TOT DE DIENSTEN, INFORMATIE EN GERELATEERDE AFBEELDINGEN, MET INBEGRIP VAN ALLE GARANTIES MET BETREKKING TOT VERKOOPBAARHEID, UITDRUKKELIJK, IMPLICIET OF WETTELIJK, GESCHIKTHEID VOOR EEN BEPAALD DOEL, EIGENDOM EN HET NIET-INBREUKMAKEND KARAKTER VAN DE INFORMATIE, VAN DE HAND. IN GEEN GEVAL ZIJN MICROSOFT EN/OF HAAR RESPECTIEVE TOELEVERANCIERS AANSPRAKELIJK VOOR ENIGE SPECIALE, INDIRECTE OF GEVOLGSCHADE, OF ENIGE SCHADE ALS GEVOLG VAN HET ONVERMOGEN TOT GEBRUIK, VERLIES VAN GEGEVENS OF GEDERFDE WINST, HETZIJ CONTRACTUEEL, HETZIJ UIT HOOFDE VAN NALATIGHEID OF ANDERE ONRECHTMATIGE DAAD, ALS GEVOLG VAN OF IN VERBAND MET DE DIENSTEN, MET INBEGRIP VAN HET GEBRUIK OF DE UITVOERING VAN DE INFORMATIE DIE BESCHIKBAAR IS VIA DE DIENSTEN.
 
 HET IS MOGELIJK DAT DE VIA DE DIENSTEN GEPUBLICEERDE DOCUMENTEN EN BIJBEHORENDE GRAFISCHE VOORSTELLINGEN TECHNISCHE ONVOLKOMENHEDEN OF DRUKFOUTEN BEVATTEN. ZO NU EN DAN WORDEN WIJZIGINGEN AANGEBRACHT IN DE INFORMATIE HIERIN. MICROSOFT EN/OF HAAR RESPECTIEVE TOELEVERANCIERS KUNNEN TE ALLEN TIJDE VERBETERINGEN EN/OF WIJZIGINGEN IN DE HIERIN BESCHREVEN PRODUCTEN EN/OF PROGRAMMA'S AANBRENGEN.
 
@@ -74,13 +74,13 @@ U hebt mogelijk een Microsoft-account, Azure Active Directory-account of Tech Pr
 
 **Azure Active Directory-account**. U kunt een account hebben bij Microsoft via een organisatie waartoe u behoort. Neem contact op met de beheerder van uw organisatie voor informatie over dit account.
 
-**Tech Profile-account**. Met uw Tech Profile-account kunt u inloggen op de Microsoft Docs website en gebruik maken van de gerelateerde diensten, waaronder gratis toegang tot leermiddelen, het deblokkeren van prestaties, beoordelingen, commentaar, het plaatsen van inhoud en het gebruik van andere interactieve diensten. U kunt een Tech Profile-account aanmaken door een gebruikersnaam aan te maken in [Tech Profile](https://techprofile.microsoft.com/) nadat u zich hebt aangemeld met een Microsoft-account of een Azure Active Directory-account.
+**Tech Profile-account**. Met uw Tech Profile-account kunt u inloggen op de Microsoft Learn-website en gebruik maken van de gerelateerde diensten, waaronder gratis toegang tot trainingsmiddelen, het deblokkeren van prestaties, beoordelingen, commentaar, het plaatsen van inhoud en het gebruik van andere interactieve diensten. U kunt een Tech Profile-account aanmaken door een gebruikersnaam aan te maken in Tech Profile nadat u zich hebt aangemeld met een Microsoft-account of een Azure Active Directory-account.
 
 U stemt ermee in geen valse, onjuiste of misleidende gegevens te gebruiken tijdens uw aanmelding voor een Tech Profile-account. U bent zelf volledig verantwoordelijk voor het in stand houden van de geheimhouding van uw wachtwoord en account. Verder bent u volledig verantwoordelijk voor alle activiteiten die op uw account plaatsvinden. U stemt ermee in dat u Microsoft onmiddellijk op de hoogte stelt over enig gebruik van uw account door onbevoegden of enige andere beveiligingsinbreuk. Microsoft is niet aansprakelijk voor enig geleden verlies ten gevolge van gebruik van uw account of wachtwoord door derden, ongeacht of dat met of zonder uw medeweten gebeurde. U kunt zelf wel aansprakelijk worden gehouden voor door Microsoft of een andere partij geleden verlies als gevolg van gebruik van uw account of wachtwoord door iemand anders. Het is u te allen tijde niet toegestaan het account van iemand anders te gebruiken zonder toestemming van de accounteigenaar.
 
 Indien u een Tech Profile-account maakt namens een entiteit, bijvoorbeeld uw bedrijf of werkgever, verklaart u dat u beschikt over de wettelijke bevoegdheid om de betreffende entiteit te binden aan deze Voorwaarden. U mag uw Tech Profile-accountgegevens niet overdragen aan een andere gebruiker of entiteit. Houd uw accountgegevens geheim om uw account te beschermen. U bent verantwoordelijk voor alle activiteiten die plaatsvinden in het kader van uw Tech Profile-account.
 
-U kunt uw Tech Profile-account sluiten door [hier de instellingen van uw Tech Profile-account](https://techprofile.microsoft.com/edit/) te openen.
+U kunt uw Tech Profile-account sluiten via de instellingen van uw Tech Profile-account.
 
 ## <a name="no-unlawful-or-prohibited-use"></a>Geen onrechtmatig of verboden gebruik
 
