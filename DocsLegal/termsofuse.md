@@ -10,12 +10,12 @@ ms.prod: legal
 ms.technology: ''
 ms.assetid: 674fcfe7-14bb-4fe1-8a25-cbe6eca5dcd1
 layout: ContentPage
-ms.openlocfilehash: e3775ca714120078c7b616711a00ee5ca2959b22
-ms.sourcegitcommit: 4992204ccdcaf82cb72bf4aafe4526dbbaff2564
+ms.openlocfilehash: f20755cc9856e52068eb3189dbd12ebf90e4761c
+ms.sourcegitcommit: cf1db1b6138ad34406183a2735eab11b3293b130
 ms.translationtype: HT
 ms.contentlocale: nl-BE
-ms.lasthandoff: 09/27/2022
-ms.locfileid: "147979718"
+ms.lasthandoff: 10/21/2022
+ms.locfileid: "148103189"
 ---
 # <a name="learnmicrosoftcom---terms-of-use"></a>learn.microsoft.com - Gebruiksvoorwaarden
 
@@ -70,7 +70,7 @@ IN GEEN GEVAL ZIJN MICROSOFT EN/OF HAAR RESPECTIEVE TOELEVERANCIERS AANSPRAKELIJ
 
 U hebt mogelijk een Microsoft-account, Azure Active Directory-account of Tech Profile-account nodig om toegang te krijgen tot sommige van de Diensten.
 
-**Microsoft-account**. Met uw Microsoft-account kunt u zich aanmelden bij producten, websites en diensten die worden geleverd door Microsoft en bepaalde Microsoft-partners. U kunt een Microsoft-account aanmaken door u [online](https://signup.live.com/) in te schrijven. Microsoft-accounts zijn onderworpen aan de [Microsoft-servicesovereenkomst](https://www.microsoft.com/servicesagreement/).
+**Microsoft-account**. Met uw Microsoft-account kunt u zich aanmelden bij producten, websites en diensten die worden geleverd door Microsoft en bepaalde Microsoft-partners. U kunt [een Microsoft-account maken door u online te registreren](https://signup.live.com/). Microsoft-accounts zijn onderworpen aan de [Microsoft-servicesovereenkomst](https://www.microsoft.com/servicesagreement/).
 
 **Azure Active Directory-account**. U kunt een account hebben bij Microsoft via een organisatie waartoe u behoort. Neem contact op met de beheerder van uw organisatie voor informatie over dit account.
 
