@@ -1,10 +1,10 @@
 
-# [Algemene Verordening Gegevensbescherming (AVG)](gdpr.md)
-# [Licentievoorwaarden Azure Software](/legal/information-protection/software-license-terms)
-# [Microsoft-overeenkomst voor ontwikkelaars](MDSA.md)
-# [Gebruiksvoorwaarden](/legal/termsofuse)
-# [Leer-tv Ethische gedragscode](/legal/learntv/codeofconduct)
-# [Deelvoorwaarden leergegevens](/legal/learn/reporting/terms)
+# <a name="general-data-protection-regulation-gdpr"></a>[Algemene Verordening Gegevensbescherming (AVG)](gdpr.md)
+# <a name="azure-software-licensing-terms"></a>[Licentievoorwaarden Azure Software](/legal/information-protection/software-license-terms)
+# <a name="microsoft-developer-agreement"></a>[Microsoft-overeenkomst voor ontwikkelaars](MDSA.md)
+# <a name="terms-of-use"></a>[Gebruiksvoorwaarden](/legal/termsofuse)
+# <a name="learn-tv-code-of-conduct"></a>[Leer-tv Ethische gedragscode](/legal/learntv/codeofconduct)
+# <a name="terms-of-learn-data-sharing"></a>[Deelvoorwaarden leergegevens](/legal/learn/reporting/terms)
 
 <!--## [Basque](software-license-terms-eu-es.md) -->
 <!--## [Bulgarian](software-license-terms-bg-bg.md) -->
