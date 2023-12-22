@@ -4,13 +4,13 @@ description: 'Informatie betreffende Gebruiksvoorwaarden van Microsoft, AVG, Inf
 author: GrantMeStrength
 ms.author: jken
 ms.prod: legal
-ms.topic: article
+ms.topic: legal
 ms.date: 11/25/2020
 ---
 
 
 
-# <a name="microsoft-legal-resources-on-learnmicrosoftcom"></a>Juridische bronnen van Microsoft op learn.microsoft.com
+# Juridische bronnen van Microsoft op learn.microsoft.com
 
 Vind hieronder links naar juridische bronnen.
 

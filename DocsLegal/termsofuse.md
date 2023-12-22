@@ -6,27 +6,27 @@ keywords: null
 author: null
 manager: null
 ms.date: 09/17/2022
-ms.topic: article
+ms.topic: legal
 ms.prod: legal
 ms.technology: null
 ms.assetid: 674fcfe7-14bb-4fe1-8a25-cbe6eca5dcd1
 layout: ContentPage
 ---
-# <a name="learnmicrosoftcom---terms-of-use"></a>learn.microsoft.com - Gebruiksvoorwaarden
+# learn.microsoft.com - Gebruiksvoorwaarden
 
-## <a name="acceptance-of-terms"></a>Instemming met de Voorwaarden
+## Instemming met de Voorwaarden
 
 De volgende Gebruiksvoorwaarden zijn van toepassing op uw gebruik van de Microsoft Learn-website ([https://learn.microsoft.com](https://learn.microsoft.com)), Tech Profile en de gerelateerde diensten. Microsoft behoudt zich het recht voor om deze Gebruiksvoorwaarden op elk gewenst moment en zonder voorafgaande kennisgeving aan te passen. U vindt de nieuwste versie van deze Gebruiksvoorwaarden door te klikken op de gelijknamige koppeling onderaan onze webpagina's.
 
-## <a name="description-of-service"></a>Beschrijving van dienst
+## Beschrijving van dienst
 
 Door middel van de Microsoft Learn-website, Tech Profile en gerelateerde diensten biedt Microsoft u toegang tot diverse informatiebronnen, met inbegrip van interactieve trainingen, documentatie, video's, ontwikkelaarstools, downloadgebieden, communicatieforums en productinformatie (tezamen de “Diensten”). Op de Diensten, met inbegrip van eventuele updates, uitbreidingen, nieuwe functionaliteit, en/of de toevoeging van nieuwe webmogelijkheden zijn de Gebruiksvoorwaarden van toepassing.
 
-## <a name="personal-and-non-commercial-use-limitation"></a>Beperking tot persoonlijk en niet-commercieel gebruik.
+## Beperking tot persoonlijk en niet-commercieel gebruik.
 
 Tenzij anders bepaald, zijn de Diensten bestemd voor uw persoonlijke en niet-commerciële gebruik. U mag informatie, software, producten of diensten verkregen via de Diensten niet wijzigen, kopiëren, verspreiden, uitzenden, in het openbaar tentoonstellen, uitvoeren, reproduceren, publiceren, licentiëren, gebruiken als basis voor afgeleide werken, overdragen of verkopen zonder voorafgaande schriftelijke toestemming van Microsoft (met uitzondering van uw eigen, persoonlijke, niet-commerciële gebruik).
 
-## <a name="privacy-and-protection-of-personal-information"></a>Privacy en bescherming van persoonsgegevens
+## Privacy en bescherming van persoonsgegevens
 
 Wij nemen uw privacy serieus. Lees de [Privacyverklaring van Microsoft](https://privacy.microsoft.com/privacystatement) (de "Privacyverklaring"). Hierin wordt beschreven welke soorten gegevens wij van u en uw apparaten verzamelen, hoe wij deze gegevens gebruiken en welke rechtsgronden wij hebben om deze gegevens te verwerken. De Privacyverklaring beschrijft ook hoe Microsoft de Bijdragen (zoals hierin gedefinieerd), opmerkingen, ratings of beoordelingen van de Diensten, communicatie, bestanden, foto's, documenten, audio, digitale werken, livestreams, video's en andere inhoud die u uploadt, opslaat, uitzendt of deelt via de Diensten (gezamenlijk, "Uw Inhoud") gebruikt. Indien de verwerking gebaseerd is op uw toestemming en voor zover maximaal is toegestaan door de wet, geeft u, door akkoord te gaan met deze Voorwaarden, Microsoft toestemming Uw Inhoud en gegevens te verzamelen, te gebruiken en bekend te maken, zoals is bepaald in de Privacyverklaring. In sommige gevallen verstrekken wij een afzonderlijke kennisgeving en toestemmingsverzoek, zoals wordt uiteengezet in de Privacyverklaring.
 
@@ -34,7 +34,7 @@ Wij nemen uw privacy serieus. Lees de [Privacyverklaring van Microsoft](https://
 
 Alle Inhoud die u in het openbaar plaatst, kan ook door anderen worden bekeken. Het is mogelijk dat u bepaalde soorten Inhoud kunt verwijderen nadat ze zijn geplaatst, maar niet alle soorten Inhoud kunnen worden verwijderd nadat ze in het openbaar zijn geplaatst.
 
-## <a name="notice-specific-to-software-available-on-this-website"></a>Specifieke kennisgeving met betrekking tot op deze website beschikbare software
+## Specifieke kennisgeving met betrekking tot op deze website beschikbare software
 
 Alle software die via download beschikbaar wordt gesteld via de Diensten ("Software") is het auteursrechtelijke eigendom van Microsoft en/of haar leveranciers. Het gebruik van de Software is onderworpen aan de bepalingen van de eindgebruikerslicentieovereenkomst die wordt geleverd bij of is opgenomen in de Software (“Licentieovereenkomst”), indien van toepassing. De eindgebruiker zal niet in staat zijn Software die wordt vergezeld van een Licentieovereenkomst of waarin een Licentieovereenkomst is opgenomen te installeren, tenzij deze eerst instemt met de bepalingen van de Licentieovereenkomst. Scripts of code van derden naar welke een koppeling is opgenomen op deze website, wordt aan u in licentie gegeven door de derden die eigenaar zijn van dergelijke code, niet door Microsoft.
 
@@ -46,14 +46,14 @@ DE SOFTWARE WORDT GELEVERD MET GARANTIES, VOOR ZOVER DIE ER ZIJN, UITSLUITEND IN
 
 MEDEDELING BETREFFENDE BEPERKTE RECHTEN. Alle software die via deze Diensten wordt gedownload voor of ten behoeve van de Verenigde Staten van Amerika of instanties en/of overheidsinstellingen van de Verenigde Staten ("Amerikaanse overheid”), wordt verschaft met Beperkte rechten. Gebruik, duplicatie of openbaarmaking door de VS. De overheid is onderworpen aan beperkingen zoals uiteengezet in subparagraaf (c)(1)(ii) van de clausule Rechten in technische gegevens en computersoftware op DFARS 252.227-7013 of subparagraafen (c)(1) en (2) van de wet inzake commerciële computersoftware - Beperkte rechten 48 CFR 52.227-19, zoals van toepassing. Fabrikant is Microsoft Corporation, One Microsoft Way, Redmond, WA 98052-6399.
 
-## <a name="notice-specific-to-documents-available-on-this-website"></a>Specifieke kennisgeving met betrekking tot op deze website beschikbare documenten
+## Specifieke kennisgeving met betrekking tot op deze website beschikbare documenten
 
 Bepaalde documentatie kan onderworpen zijn aan specifieke licentievoorwaarden, afzonderlijk van de voorwaarden in dit document. In het geval van strijdigheid tussen de voorwaarden, prevaleren de specifieke licentievoorwaarden.
 Toestemming tot het gebruik van Documenten (zoals white papers, persberichten, datasheets en FAQ’s) via de Microsoft Diensten wordt verleend op voorwaarde dat (1) de onderstaande auteursrechtvermelding op alle kopieën wordt vermeld en dat zowel de auteursrechtvermelding als deze mededeling van toestemming wordt vermeld, (2) deze Documenten uit de Diensten uitsluitend worden gebruikt voor informatief, niet-commercieel of persoonlijk gebruik en niet zullen worden gekopieerd of geplaatst op een netwerkcomputer of in enige vorm uitgezonden via de media, en (3) geen wijzigingen in de Documenten worden aangebracht. Erkende onderwijsinstellingen, zoals K-12, universiteiten, particuliere en openbare scholen en scholengemeenschappen mogen de Documenten downloaden en reproduceren voor distributie in de leslokalen. Voor verspreiding buiten de klas is uitdrukkelijk schriftelijke toestemming vereist. Gebruik voor enig ander doeleinde is uitdrukkelijk wettelijk verboden en kan resulteren in zware burgerrechtelijke en strafrechtelijke sancties. Overtreders worden tot het uiterste vervolgd.
 
 Onder de hierboven genoemde Documenten vallen niet het ontwerp of de lay-out van de website Microsoft.com of van andere websites die in het bezit zijn van Microsoft of die door Microsoft worden geëxploiteerd of beheerd of waarvoor Microsoft een licentie heeft. De onderdelen van Microsoft-websites zijn beschermd door wetgeving inzake handelsimago, merkrecht, de wet op oneerlijke concurrentie en door andere wetten, en mogen niet volledig of gedeeltelijk worden verveelvoudigd of nagemaakt. Er mag geen logo, afbeelding of geluid van een Microsoft-website worden verveelvoudigd of opnieuw worden doorgegeven, tenzij Microsoft hiervoor uitdrukkelijk toestemming heeft gegeven.
 
-## <a name="disclaimer-and-limitation-of-liability-for-the-services"></a>Afwijzing en aansprakelijkheidsbeperking voor de Diensten
+## Afwijzing en aansprakelijkheidsbeperking voor de Diensten
 
 MICROSOFT EN/OF HAAR RESPECTIEVE LEVERANCIERS DOEN GEEN VERKLARINGEN BETREFFENDE DE GESCHIKTHEID VAN DE DIENSTEN OF DE GESCHIKTHEID VAN DE INFORMATIE IN DE DOCUMENTEN EN DE BIJBEHORENDE AFBEELDINGEN DIE WORDEN GEPUBLICEERD ALS ONDERDEEL VAN DE DIENSTEN VOOR ENIG DOEL. ALLE DIENSTEN, DOCUMENTEN EN VERWANTE AFBEELDINGEN WORDEN IN DE HUIDIGE STAAT AANGEBODEN, ZONDER ENIGE VORM VAN GARANTIE. MICROSOFT EN/OF HAAR RESPECTIEVE LEVERANCIERS WIJZEN BIJ DEZE ALLE GARANTIES MET BETREKKING TOT DE DIENSTEN, INFORMATIE EN GERELATEERDE AFBEELDINGEN, MET INBEGRIP VAN ALLE GARANTIES MET BETREKKING TOT VERKOOPBAARHEID, UITDRUKKELIJK, IMPLICIET OF WETTELIJK, GESCHIKTHEID VOOR EEN BEPAALD DOEL, EIGENDOM EN HET NIET-INBREUKMAKEND KARAKTER VAN DE INFORMATIE, VAN DE HAND. IN GEEN GEVAL ZIJN MICROSOFT EN/OF HAAR RESPECTIEVE TOELEVERANCIERS AANSPRAKELIJK VOOR ENIGE SPECIALE, INDIRECTE OF GEVOLGSCHADE, OF ENIGE SCHADE ALS GEVOLG VAN HET ONVERMOGEN TOT GEBRUIK, VERLIES VAN GEGEVENS OF GEDERFDE WINST, HETZIJ CONTRACTUEEL, HETZIJ UIT HOOFDE VAN NALATIGHEID OF ANDERE ONRECHTMATIGE DAAD, ALS GEVOLG VAN OF IN VERBAND MET DE DIENSTEN, MET INBEGRIP VAN HET GEBRUIK OF DE UITVOERING VAN DE INFORMATIE DIE BESCHIKBAAR IS VIA DE DIENSTEN.
 
@@ -61,7 +61,7 @@ HET IS MOGELIJK DAT DE VIA DE DIENSTEN GEPUBLICEERDE DOCUMENTEN EN BIJBEHORENDE 
 
 IN GEEN GEVAL ZIJN MICROSOFT EN/OF HAAR RESPECTIEVE TOELEVERANCIERS AANSPRAKELIJK VOOR ENIGE SPECIALE, INDIRECTE OF GEVOLGSCHADE, OF ENIGE SCHADE ALS GEVOLG VAN VERHINDERING TOT GEBRUIK, VERLIES VAN GEGEVENS OF GEDERFDE WINST, HETZIJ CONTRACTUEEL, HETZIJ UIT HOOFDE VAN NALATIGHEID OF ANDERE ONRECHTMATIGE DAAD, ALS GEVOLG VAN OF IN VERBAND MET HET GEBRUIK OF DE PRESTATIES VAN DE DIENSTEN, SOFTWARE OF DOCUMENTEN, DE LEVERING OF HET NIET LEVEREN VAN DIENSTEN, OF VIA DE DIENSTEN BESCHIKBARE INFORMATIE.
 
-## <a name="tech-profile-account-password-and-security"></a>Tech Profile-account, wachtwoord en beveiliging
+## Tech Profile-account, wachtwoord en beveiliging
 
 U hebt mogelijk een Microsoft-account, Azure Active Directory-account of Tech Profile-account nodig om toegang te krijgen tot sommige van de Diensten.
 
@@ -77,11 +77,11 @@ Indien u een Tech Profile-account maakt namens een entiteit, bijvoorbeeld uw bed
 
 U kunt uw Tech Profile-account sluiten via de instellingen van uw Tech Profile-account.
 
-## <a name="no-unlawful-or-prohibited-use"></a>Geen onrechtmatig of verboden gebruik
+## Geen onrechtmatig of verboden gebruik
 
 Als voorwaarde voor het mogen gebruiken van de Diensten, geldt dat u de Diensten voor geen enkel onrechtmatig doel gebruikt noch voor enig doel dat in strijd is met deze Gebruiksvoorwaarden, bepalingen en mededelingen. U mag de Diensten op geen enkele wijze zodanig gebruiken dat enige Microsoft-server of enig daarmee verbonden netwerk zou kunnen worden beschadigd, uitgeschakeld, overbelast of aangetast, of waardoor het ongestoord gebruik van de Diensten door andere partijen wordt gehinderd, schade ondervindt of op welke wijze dan ook negatief wordt beïnvloed. U mag op geen enkele wijze proberen onbevoegd toegang te krijgen tot de Diensten, andere accounts, computersystemen of netwerken die in verbinding staan met enige Microsoft-server of met een van de Diensten, door middel van hacking, 'password mining' of op enige andere wijze. U mag op geen enkele wijze materiaal of informatie verkrijgen of proberen te verkrijgen dat door Microsoft niet speciaal voor de Diensten is bestemd.
 
-## <a name="use-of-services"></a>Gebruik van Diensten
+## Gebruik van Diensten
 
 De Diensten kunnen e-maildiensten, bulletinboarddiensten, chatruimtes, nieuwsgroepen, forums, community's, persoonlijke webpagina's, agenda's, fotoalbums, archiefkasten en/of andere berichten- of communicatiefaciliteiten bevatten die zijn ontworpen om u in staat te stellen te communiceren met anderen. U stemt ermee in de Diensten uitsluitend te gebruiken voor het inzenden, verzenden en ontvangen van berichten en materialen die gepast zijn en, indien van toepassing, verband houden met de betreffende Dienst. Bij wijze van voorbeeld, en niet als beperking, stemt u ermee in dat u de Diensten niet zult gebruiken voor de volgende doeleinden:
 
@@ -111,7 +111,7 @@ Materialen die worden geüpload naar de Diensten kunnen zijn onderworpen aan gep
 
 De video's en e-boeken zijn mogelijk alleen in het Engels beschikbaar. Als u op de koppelingen klikt, wordt u mogelijk omgeleid naar een Amerikaanse website waarvan de inhoud uitsluitend Engelstalig is.
 
-## <a name="materials-provided-to-microsoft-or-posted-to-the-services"></a>Materiaal dat aan Microsoft wordt geleverd of naar de Diensten wordt ingezonden
+## Materiaal dat aan Microsoft wordt geleverd of naar de Diensten wordt ingezonden
 
 Microsoft maakt geen aanspraak op eigendomsrechten op het materiaal dat u levert aan Microsoft (waaronder commentaar en opmerkingen) of dat u openbaar maakt, uploadt, invoert of indient via de Diensten of daaraan gekoppelde diensten die toegankelijk zijn voor het grote publiek, of door de leden van enige publieke groep of privé-groep, (afzonderlijk een "Bijdrage" en gezamenlijk, "Bijdragen" genoemd). Door uw Bijdragen in te sturen, te uploaden, in te voeren, aan te leveren of in te dienen (“Posten”) verleent u Microsoft, haar gelieerde ondernemingen en benodigde sublicentienemers toestemming uw Bijdrage te gebruiken in verband met de uitvoering van hun internetactiviteiten (waaronder zonder beperking begrepen alle Microsoft Diensten), waaronder zonder beperking begrepen, het recht tot: uw Bijdrage te kopiëren, distribueren, door te geven, publiekelijk weer te geven, publiekelijk uit te voeren, te reproduceren, bewerken, vertalen en opnieuw in te delen; uw naam te publiceren in verband met uw Bijdrage; evenals het recht deze rechten in sublicentie te geven aan enige leverancier van de Diensten.
 
@@ -121,16 +121,16 @@ Door het indienen van een Bijdrage garandeert en verklaart u dat u alle rechten 
 
 Ter aanvulling op bovenstaande garanties en verklaringen, geldt dat door het indienen van een Bijdrage die afbeeldingen, foto's of plaatjes bevat of op andere wijze geheel of gedeeltelijk grafisch is ("Afbeeldingen"), garandeert en verklaart u dat (a) u in het bezit bent van het auteursrecht van deze Afbeeldingen of dat de eigenaar van deze Afbeeldingen u toestemming heeft verleend deze Afbeeldingen of inhoud en/of afbeeldingen die in deze Abeeldingen voorkomen, te gebruiken overeenkomstig de wijze en het doel van uw gebruik en zoals voor het overige is toegestaan door deze Gebruiksvoorwaarden en de Diensten, (b) u in het bezit bent van de benodigde rechten om de in deze Gebruiksvoorwaarden beschreven licenties en sublicenties te verstrekken en (c) elke persoon die mogelijk op deze Afbeeldingen voorkomt, toestemming heeft verleend voor het gebruik van de Afbeeldingen zoals in deze Gebruiksvoorwaarden uiteengezet, inclusief onder meer maar niet beperkt tot, de distributie, het publiekelijk vertoon en de reproductie van dergelijke Afbeeldingen. Door het indienen van Afbeeldingen verleent u (a) alle leden van uw privé-groep (voor alle Afbeeldingen die beschikbaar zijn voor de leden van een dergelijke privé-groep) en/of (b) het grote publiek (voor alle Afbeeldingen die buiten een privé-groep, ergens op de Diensten beschikbaar zijn), toestemming om uw Afbeeldingen te gebruiken, zoals is toegestaan in deze Gebruiksvoorwaarden, voor de Diensten (inclusief maar niet beperkt tot bijvoorbeeld het maken van afdrukken en cadeautjes waarin deze Afbeeldingen voorkomen) en inclusief maar niet beperkt tot, een niet-exclusieve, wereldwijde en royaltyvrije licentie om: uw Afbeeldingen te kopiëren, distribueren, door te geven, publiekelijk te vertonen, publiekelijk uit te voeren, te reproduceren, bewerken, vertalen en opnieuw in te delen, zonder vermelding van uw naam; evenals het recht deze rechten in sublicentie te geven aan enige leverancier van de Diensten. De in het voorgaande verleende licenties voor Afbeeldingen eindigen op het moment dat u deze Afbeeldingen volledig van de Diensten hebt verwijderd, op voorwaarde dat zulke beëindiging geen gevolgen heeft voor de licenties die in verband met die Afbeeldingen zijn afgegeven voordat u de Afbeeldingen volledig verwijdert. Voor het gebruik van uw Afbeeldingen ontvangt u geen vergoeding.
 
-## <a name="notices-and-procedure-for-making-claims-of-copyright-infringement"></a>Kennisgevingen en procedure voor het indienen van claims bij inbreuk op het auteursrecht
+## Kennisgevingen en procedure voor het indienen van claims bij inbreuk op het auteursrecht
 
 Op grond van Hoofdstuk 17, wetboek van de Verenigde Staten, artikel 512(c)(2), dienen kennisgevingen over vermeende inbreuken op het auteursrecht te worden gestuurd naar de Contactpersoon van de Services Provider. VRAGEN DIE GEEN VERBAND HOUDEN MET DE VOLGENDE PROCEDURE, WORDEN NIET BEANTWOORD.
 Zie de [Kennisgeving en procedure voor het indienen van vorderingen bij inbreuk op het auteursrecht](https://www.microsoft.com/info/cpyrtinfrg.aspx).
 
-## <a name="links-to-third-party-sites"></a>Koppelingen naar de sites van derden
+## Koppelingen naar de sites van derden
 
 DOOR GEBRUIK TE MAKEN VAN DE KOPPELINGEN IN DEZE DIENST VERLAAT U MOGELIJK DE WEBSITE VAN MICROSOFT. MICROSOFT HEEFT GEEN ZEGGENSCHAP OVER DE GEKOPPELDE SITES EN IS NIET VERANTWOORDELIJK VOOR DE INHOUD VAN ENIGE GEKOPPELDE SITE OF VAN EVENTUELE KOPPELINGEN DIE ZICH OP EEN GEKOPPELDE SITE BEVINDEN DAN WEL WIJZIGINGEN OF UPDATES OP DERGELIJKE SITES. MICROSOFT IS NIET VERANTWOORDELIJK VOOR HET DOORGEVEN VIA WEBCAST OF ANDERE VORM VANAF DERGELIJKE GEKOPPELDE WEBSITES. MICROSOFT NEEMT DEZE KOPPELINGEN NAAR DERGELIJKE WEBSITES UITSLUITEND OP VOOR UW GEMAK EN HET FEIT DAT MICROSOFT EEN KOPPELING OPNEEMT, IMPLICEERT OP GEEN ENKELE WIJZE DAT MICROSOFT DIE SITES AANBEVEELT.
 
-## <a name="unsolicited-idea-submission-policy-reservation-of-rights-and-feedback"></a>Beleid inzake indiening van ongevraagde suggesties, Voorbehoud van rechten en feedback
+## Beleid inzake indiening van ongevraagde suggesties, Voorbehoud van rechten en feedback
 
 MICROSOFT NOCH HAAR WERKNEMERS NEMEN ONGEVRAAGDE SUGGESTIES AAN OF NEMEN DEZE IN OVERWEGING. ONDER DEZE BEPALING VALT ELKE SUGGESTIE VOOR NIEUWE ADVERTENTIECAMPAGNES, NIEUWE AANBIEDINGEN, NIEUWE PRODUCTEN OF TECHNOLOGIEËN, PROCEDURES, MATERIALEN, MARKETINGPLANNEN OF NIEUWE PRODUCTNAMEN. STUUR GEEN ORIGINELE CREATIEVE ILLUSTRATIES, STALEN, DEMONSTRATIES OF ANDERE WERKEN. DE ENIGE DOELSTELLING VAN DIT BELEID IS HET VOORKOMEN VAN MOGELIJKE MISVERSTANDEN OF GESCHILLEN WANNEER PRODUCTEN OF MARKETINGSTRATEGIEËN VAN MICROSOFT MOGELIJK LIJKEN OP SUGGESTIES DIE BIJ MICROSOFT WERDEN INGEDIEND. STUUR DAN OOK NIET ONGEVRAAGD SUGGESTIES OF IDEEËN NAAR MICROSOFT OF IEMAND BIJ MICROSOFT. ALS U MICROSOFT, ONDANKS ONS VERZOEK DIT NIET TE DOEN, TOCH SUGGESTIES EN MATERIAAL STUURT, MOET U BEGRIJPEN DAT MICROSOFT NIET KAN GARANDEREN DAT UW SUGGESTIES EN MATERIAAL ALS VERTROUWELIJK OF UW EIGENDOM WORDEN BESCHOUWD.
 
