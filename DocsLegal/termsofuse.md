@@ -1,14 +1,11 @@
 ---
-# required metadata
 title: Gebruiksvoorwaarden
 description: Gebruiksvoorwaarden voor documentatie op learn.microsoft.com.
 keywords: null
 author: null
 manager: null
 ms.date: 09/17/2022
-ms.topic: legal
-ms.prod: legal
-ms.technology: null
+ms.service: learn
 ms.assetid: 674fcfe7-14bb-4fe1-8a25-cbe6eca5dcd1
 layout: ContentPage
 ---
@@ -124,7 +121,7 @@ Ter aanvulling op bovenstaande garanties en verklaringen, geldt dat door het ind
 ## Kennisgevingen en procedure voor het indienen van claims bij inbreuk op het auteursrecht
 
 Op grond van Hoofdstuk 17, wetboek van de Verenigde Staten, artikel 512(c)(2), dienen kennisgevingen over vermeende inbreuken op het auteursrecht te worden gestuurd naar de Contactpersoon van de Services Provider. VRAGEN DIE GEEN VERBAND HOUDEN MET DE VOLGENDE PROCEDURE, WORDEN NIET BEANTWOORD.
-Zie de [Kennisgeving en procedure voor het indienen van vorderingen bij inbreuk op het auteursrecht](https://www.microsoft.com/info/cpyrtinfrg.aspx).
+Zie [Kennisgevingen en procedure voor het indienen van claims bij inbreuk op het auteursrecht](https://www.microsoft.com/info/cpyrtinfrg.aspx).
 
 ## Koppelingen naar de sites van derden
 

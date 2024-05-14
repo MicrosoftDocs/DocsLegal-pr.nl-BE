@@ -1,15 +1,13 @@
 ---
-# required metadata
 title: Microsoft-overeenkomst voor ontwikkelaars
 description: Microsoft-overeenkomst voor ontwikkelaars learn.microsoft.com
 author: gregtouchton
 ms.service: active-directory
-ms.topic: article
 ms.date: 06/15/2018
 ms.author: grtoucht
 layout: ContentPage
 ---
-# <a name="microsoft-developer-agreement"></a>Microsoft-overeenkomst voor ontwikkelaars
+# Microsoft-overeenkomst voor ontwikkelaars
 
 ---
 Laatst bijgewerkt: juni 2018
@@ -19,7 +17,7 @@ Deze overeenkomst is tussen u en Microsoft Corporation ('**​​Microsoft**​'
 Als u deze Overeenkomst aangaat namens een entiteit, bijvoorbeeld uw werkgever, verklaart u dat u beschikt over de wettelijke bevoegdheid om deze entiteit te binden aan deze Voorwaarden.
 Als u een bedrijfsnaam opgeeft in verband met het registreren voor of bestellen van een Service wordt u geacht die bestelling geplaatst te hebben en deze Overeenkomst namens die organisatie of dat bedrijf te zijn aangegaan. Belangrijke termen worden gedefinieerd in Artikel 10.
 
-## <a name="1-offerings"></a>1. Aanbiedingen
+## 1. Aanbiedingen
 
 1. **API's.** Op uw toegang tot en gebruik van de API's van Microsoft zijn specifieke voorwaarden van toepassing. Als ontwikkelaar bent u verantwoordelijk voor uw toepassing en voor de naleving van alle wet- en regelgeving die van toepassing is op uw gebruik van de API's van Microsoft, met inbegrip van de wet- en regelgeving die van toepassing is op privacy, biometrische gegevens, gegevensbescherming en vertrouwelijkheid van communicatie. Niets in onze geldende overeenkomsten, noch deze Overeenkomst, kan worden geïnterpreteerd als het tot stand brengen van een gezamenlijke rol als verwerkingsverantwoordelijke of een verwerker-subverwerkerrelatie tussen u en Microsoft.
 
@@ -33,7 +31,7 @@ Als u een bedrijfsnaam opgeeft in verband met het registreren voor of bestellen 
 
 2. **Services.**
 
-    1. **Gebruiksrecht.**  We kunnen u het recht verlenen voor toegang tot en gebruik van de Services in overeenstemming met deze Overeenkomst.
+    1. **Gebruiksrecht.** We kunnen u het recht verlenen voor toegang tot en gebruik van de Services in overeenstemming met deze Overeenkomst.
 
     2. **Gebruikswijze.** Het volgende is u niet toegestaan:
 
@@ -69,7 +67,7 @@ Als u een bedrijfsnaam opgeeft in verband met het registreren voor of bestellen 
 4. **Preview-functies.** Functies worden mogelijk beschikbaar gesteld op preview-basis.
     Previews worden geleverd 'as-is' en zijn uitgesloten van de garanties in Artikel 6 hieronder. Previews kunnen onderhevig zijn aan beperkte of andere verplichtingen op het gebied van beveiliging, naleving, privacy, beschikbaarheid, betrouwbaarheid en ondersteuning, zoals verder wordt uitgelegd in de Privacyverklaring en eventuele aanvullende kennisgevingen die bij de Preview verstrekt worden. Previews kunnen op elk moment, zonder voorafgaande mededeling gewijzigd of stopgezet worden. Er kan voor gekozen worden om een Preview niet uit te brengen naar Algemene beschikbaarheid. Als previews Algemeen beschikbaar gesteld worden, worden mogelijk kosten in rekening gebracht voor dergelijke functies.
 
-## <a name="2-software-and-microsoft-content"></a>2. Software en Microsoft-inhoud
+## 2. Software en Microsoft-inhoud
 
 1. **1​Microsoft-software en Microsoft-inhoud buiten de Service gebruiken.**
     Microsoft kan u Microsoft-software of Microsoft-inhoud leveren via of als onderdeel van de Services. Bij beëindiging of opschorting van deze Overeenkomst of van uw gebruik van of toegang tot de Services wordt tevens uw recht beëindigd om dergelijke Microsoft-software of Microsoft-inhoud te bezitten of te gebruiken, tenzij u hiervoor een afzonderlijke licentie verkregen hebt. Bij opschorting of beëindiging van een Gebruikersabonnement wordt tevens het recht van die gebruiker beëindigd om dergelijke Microsoft-software of Microsoft-inhoud te bezitten of te gebruiken die gekoppeld is aan of afhankelijk is van dat Gebruikersabonnement. U dient alle kopieën te verwijderen van dergelijke Microsoft-software of Microsoft-inhoud die in licentie onder deze Overeenkomst gegeven is. Tevens dient u alle bijbehorende media te vernietigen na beëindiging van het bijbehorende bezit of de gebruiksrechten. Dit lid is niet van toepassing op Microsoft-software die wordt behandeld in lid (b) hieronder.
@@ -84,7 +82,7 @@ Als u een bedrijfsnaam opgeeft in verband met het registreren voor of bestellen 
 
 6. **Gebruik in leslokalen.** Het is erkende onderwijsinstellingen, zoals basis- en middelbaar onderwijs, universiteiten en particuliere of openbare scholen toegestaan Microsoft-inhoud te downloaden en reproduceren voor distributie in het klaslokaal voor educatieve doeleinden.
 
-## <a name="3-security-and-privacy"></a>3. Beveiliging en privacy
+## 3. Beveiliging en privacy
 
 1. **Beveiliging.** We hanteren technische en organisatorische maatregelen, interne controles en gegevensbeveiligingsroutines die bedoeld zijn om Gebruikersgegevens te beschermen tegen onbedoeld verlies of wijziging, onbevoegde openbaarmaking of toegang, of onrechtmatige vernietiging.
 
@@ -108,7 +106,7 @@ Als u een bedrijfsnaam opgeeft in verband met het registreren voor of bestellen 
 
 5. **Monitoring; audit**. We kunnen uw toegang tot en gebruik van de Services (met inbegrip van toepasselijke producten en services, website, Inhoud en gegevens) controleren, ter verifiëring van uw naleving van deze Overeenkomst. Verder dient u, met betrekking tot uw toegang tot en gebruik van de Services en gedurende vijf jaar daarna, op redelijke kennisgeving van Microsoft, Microsoft of haar auditor toestemming te verlenen om op kosten van Microsoft audits uit te voeren in verband met uw gebruik van de Services, om uw naleving van deze overeenkomst te controleren. U dient Microsoft redelijke toegang te verlenen tot personeel, gebouwen, informatie, systemen, boeken en records met betrekking tot uw gebruik van de Services om Microsoft in staat te stellen de audit uit te voeren. Op aanvraag dient u ons een bewijs te leveren van uw naleving van deze Overeenkomst.
 
-## <a name="4-customer-accounts-customer-conduct-and-feedback"></a>4. Klantaccounts, klantgedrag en feedback
+## 4. Klantaccounts, klantgedrag en feedback
 
 1. **Accounts maken.** Als voor een van de Services een account moet worden geopend, dient u het registratieproces volledig te doorlopen en ons de actuele, volledige en exacte gegevens te verstrekken. Het is u niet toegestaan een gebruikersnaam of id voor een account te selecteren waarmee u zich voordoet als iemand anders, die illegaal of mogelijk illegaal is, of mogelijk beschermd is middels een handelsmerk of andere eigendomsrechten, vulgair of aanstootgevend is of verwarring kan veroorzaken. We behouden ons het recht voor om deze gebruikersnamen en Service-id's naar eigen goeddunken te weigeren en/of opnieuw toe te wijzen.
 
@@ -118,7 +116,7 @@ Als u een bedrijfsnaam opgeeft in verband met het registreren voor of bestellen 
 
 4. **Bijdragen en feedback.** We claimen geen eigendom van enige Bijdrage, tenzij anders overeengekomen door de partijen. Door een Bijdrage te verstrekken, verleent u Microsoft en haar gelieerde ondernemingen echter onherroepelijk het recht om de Bijdrage op welke wijze en voor welk doel dan ook te maken, te gebruiken, te wijzigen, te distribueren en anderszins te commercialiseren (inclusief door het algemene publiek het recht te verlenen om uw Bijdragen te gebruiken in overeenstemming met deze Overeenkomst, welke in de loop van de tijd kan veranderen). Voor Bijdragen die worden verstrekt aan de Documentatieportalen verleent u verder het recht om specifieke identificeerbare informatie te publiceren die wordt beschreven in de Privacyverklaring in verband met uw Bijdrage. Deze rechten worden verleend onder alle toepasselijke intellectuele eigendomsrechten die u bezit of beheert. Voor het gebruik van uw Bijdragen ontvangt u geen vergoeding. Microsoft is niet verplicht om uw Bijdrage openbaar te maken of te gebruiken en het is Microsoft te allen tijde toegestaan naar eigen goeddunken een Bijdrage te verwijderen. Door een Bijdrage te verstrekken, garandeert u dat u alle rechten op uw Bijdrage bezit of anderszins controleert, en dat uw Bijdrage niet onderhevig is aan rechten van een derde partij (met inbegrip van eventuele persoonlijkheids- of publiciteitsrechten van enig persoon).
 
-## <a name="5-termination-and-suspension"></a>5. Beëindiging en opschorting
+## 5. Beëindiging en opschorting
 
 1. **Uw beëindiging.** U kunt deze Overeenkomst op elk gewenst moment beëindigen. Als u toegang tot Services aangeschaft hebt via Microsoft Azure, dient u alle verschuldigde bedragen te betalen.
 
@@ -129,13 +127,13 @@ Als u een bedrijfsnaam opgeeft in verband met het registreren voor of bestellen 
 
 4. **Beëindiging wegens niet-gebruik.** We kunnen een Serviceaccount opschorten of beëindigen na een langere periode van inactiviteit of wanneer u niet reageert op communicatie van Microsoft. Als u een gratis account hebt voor Services en u binnen 90 dagen na de eerste inrichting van de Service geen Gebruikersgegevens uploadt of maakt, kunnen we deze Overeenkomst beëindigen en/of Gebruikersgegevens verwijderen die automatisch zijn gegenereerd tijdens het registratieproces voor Services. We zullen u op de hoogte stellen voordat een account opgeschort of beëindigd wordt, of voordat Gebruikersgegevens verwijderd worden.
 
-## <a name="6-warranties"></a>6. Garanties
+## 6. Garanties
 
 **BEHALVE INDIEN GERECHTVAARDIGD IN DE BIJBEHORENDE VOORWAARDEN LEVEREN MICROSOFT EN ZIJN RESPECTIEVE LEVERANCIERS DE SERVICES (MET INBEGRIP VAN DE MICROSOFT-INHOUD EN MICROSOFT-SOFTWARE) 'AS-IS', 'MET ALLE FOUTEN' EN 'ZOALS BESCHIKBAAR'. U DRAAGT HET RISICO VAN HET GEBRUIK ERVAN. WE BIEDEN GEEN GARANTIES OF VOORWAARDEN, EXPLICIET, IMPLICIET, WETTELIJK OF ANDERSZINS, MET INBEGRIP VAN GARANTIES VAN VERKOOPBAARHEID, GESCHIKTHEID VOOR EEN BEPAALD DOEL EN HET NIET-INBREUKMAKEND ZIJN. MOGELIJK HEBT U ONDER UW LOKALE WETGEVING AANVULLENDE RECHTEN DIE DOOR DEZE OVEREENKOMST NIET GEWIJZIGD KUNNEN WORDEN. DEZE DISCLAIMERS ZIJN VAN TOEPASSING VOOR ZOVER TOEGESTAAN ONDER TOEPASSELIJK RECHT, MET INBEGRIP VAN TOEPASSING OP DE IMPLICIETE GARANTIES VAN VERKOOPBAARHEID, GESCHIKTHEID VOOR EEN BEPAALD DOEL EN NIET-INBREUKMAKENDHEID.​**
 
 **Inhoud en materialen van derden. MICROSOFT CONTROLEERT, BEOORDEELT, HERZIET, ONDERSCHRIJFT OF AANVAARDT GEEN VERANTWOORDELIJKHEID VOOR INHOUD, INFORMATIE, BERICHTEN, MATERIALEN EN PROJECTEN VAN DERDEN DIE TOEGANKELIJK ZIJN VANUIT OF GEKOPPELD ZIJN VIA DE SERVICES. BEHALVE INDIEN GERECHTVAARDIGD IN EEN AFZONDERLIJKE OVEREENKOMST, GEEFT MICROSOFT GEEN ENKELE VERKLARING OVER OF GARANTIES VOOR, EN IS NIET VERANTWOORDELIJK VOOR EEN VAN DE VOORGAANDE ZAKEN. ALLE TRANSACTIES DIE U MET DERGELIJKE DERDEN HEBT, ZIJN OP EIGEN RISICO.​**
 
-## <a name="7-defense-of-claims"></a>7. Verdediging tegen vorderingen
+## 7. Verdediging tegen vorderingen
 
 1. **Verdediging.** We verdedigen u tegen vorderingen van niet-gelieerde derde partijen dat de Services of Software inbreuk maken op octrooien, auteursrechten of handelsmerken of onrechtmatig gebruik maken van handelsgeheimen van deze derde partij. U verdedigt ons tegen alle vorderingen van niet-gelieerde derde partijen die voortvloeien uit (1) uw misbruik of het misbruik door uw eindgebruiker van de Services, Microsoft-inhoud of Microsoft-software; (2) schending van deze Overeenkomst door u of uw eindgebruiker; (3) alle Inhoud of gegevens die worden doorgestuurd naar of gebruikt met de Services, degenen die namens u handelen of uw eindgebruikers.
 
@@ -145,7 +143,7 @@ Als u een bedrijfsnaam opgeeft in verband met het registreren voor of bestellen 
 
 4. **Verplichtingen.** Elke partij dient de andere partij onmiddellijk in kennis te stellen van een vordering op grond van dit Artikel 7. De partij die bescherming behoeft, dient (1) de andere partij de uitsluitende zeggenschap te verstrekken over de verdediging en afwikkeling van de vordering; en (2) redelijke hulp te verlenen bij het verdedigen van de vordering. De partij die de bescherming biedt, zal (1) de ander vergoeden voor redelijke onkosten die gemaakt zijn bij het bieden van die hulp en (2) het bedrag betalen dat op grond van een eventueel nadelig onherroepelijk vonnis (of schikking waarmee de ander akkoord gaat) verschuldigd is. De respectieve rechten van partijen voor verweer en betaling van vonnissen of schikkingen op grond van dit Artikel 7 zijn in plaats van vrijwaringsrechten op grond van gewoonterecht of jurisprudentie of overeenkomstige rechten, en elke partij doet afstand van dergelijke rechten op grond van gewoonterecht.
 
-## <a name="8-limitation-of-liability"></a>8. Beperking van aansprakelijkheid
+## 8. Aansprakelijkheidsbeperking.
 
 1. **Beperking.** De totale aansprakelijkheid van elke partij onder deze Overeenkomst is beperkt tot directe schade, tot het bedrag dat onder deze Overeenkomst is betaald voor de Ontwikkelaarsservices die aanleiding geven tot die aansprakelijkheid gedurende de 12 maanden vóór het ontstaan van de aansprakelijkheid, of voor Services die gratis geleverd worden, vijfhonderd US-dollars (\$​500,00 USD).
 
@@ -153,7 +151,7 @@ Als u een bedrijfsnaam opgeeft in verband met het registreren voor of bestellen 
 
 3. **Uitzonderingen op beperkingen.** De aansprakelijkheidslimieten in dit Artikel 8 zijn van toepassing voor zover toegestaan op basis van toepasselijk recht, maar zijn niet van toepassing op: (1) de verplichtingen van de partijen uit hoofde van Artikel 7; of (2) schending van Artikelen 3.2 - 3.4 of schending van de intellectuele eigendomsrechten van de ander.
 
-## <a name="9-miscellaneous"></a>9. Overig
+## 9. Overig
 
 1. **Voorbehoud van rechten.** Alle rechten die hierin niet uitdrukkelijk verleend zijn, worden door Microsoft voorbehouden. U erkent dat alle intellectuele eigendomsrechten in de Services eigendom blijven van Microsoft en dat niets in deze Overeenkomst ertoe zal leiden dat deze intellectuele eigendomsrechten aan u overgedragen worden.
 
@@ -186,7 +184,7 @@ Als u een bedrijfsnaam opgeeft in verband met het registreren voor of bestellen 
 
 14. **Wijzigingen.** We kunnen deze Overeenkomst op elk gewenst moment met of zonder afzonderlijke kennisgeving aan u wijzigen door een herziene versie te plaatsen in het artikel met juridische informatie van de Ontwikkelaarsservices en Documentatieportalen (of een alternatieve site die we identificeren), of door u op de hoogte te stellen in overeenstemming met Artikel 9.b. Eventuele wijzigingen worden van kracht na kennisgeving aan u of na het plaatsen hiervan. **Met uw gebruik van de Services nadat de wijzigingen van kracht geworden zijn, bevestigt u dat u akkoord gaat met de wijzigingen in de Overeenkomst. Als u niet akkoord gaat met de nieuwe Overeenkomst, dient u het gebruik van de Services te beëindigen.**
 
-## <a name="10-definitions"></a>10. Definities
+## 10. Definities
 
 '**Inhoud**' verwijst naar documenten, foto's, video's, gegevens en andere grafische, tekstuele of audiovisuele inhoud.
 
