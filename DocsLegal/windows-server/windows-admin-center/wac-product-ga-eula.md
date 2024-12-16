@@ -8,6 +8,7 @@ ms.date: 12/13/2024
 ms.service: windows-server
 layout: ContentPage
 ---
+<p align="right"> Laatst bijgewerkt in november 2024.</p>
 
 # MICROSOFT SOFTWARE LICENTIEVOORWAARDEN WINDOWS ADMIN CENTER
 
