@@ -1,8 +1,15 @@
 ---
 title: Algemene Verordening Gegevensbescherming (AVG)
 description: Algemene verordening gegevensbescherming learn.microsoft.com.
-ms.service: legal
+ms.topic: article
+ms.prod: legal
 layout: ContentPage
+ms.openlocfilehash: 1fd23b342c8822a527df59cf1785eb7cb1d0d9a4
+ms.sourcegitcommit: 4992204ccdcaf82cb72bf4aafe4526dbbaff2564
+ms.translationtype: HT
+ms.contentlocale: nl-BE
+ms.lasthandoff: 09/27/2022
+ms.locfileid: "147979446"
 ---
 
 # AVG-verbintenissen van Microsoft tegenover klanten betreffende onze algemeen verkrijgbare Enterprise Software-producten

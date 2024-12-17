@@ -1,23 +1,31 @@
 ---
 title: Gebruiksvoorwaarden
 description: Gebruiksvoorwaarden voor documentatie op learn.microsoft.com.
-keywords: null
-author: null
-manager: null
-ms.date: 06/13/2024
-ms.service: learn
+keywords: ''
+author: ''
+manager: ''
+ms.date: 09/17/2022
+ms.topic: article
+ms.prod: legal
+ms.technology: ''
 ms.assetid: 674fcfe7-14bb-4fe1-8a25-cbe6eca5dcd1
 layout: ContentPage
+ms.openlocfilehash: f20755cc9856e52068eb3189dbd12ebf90e4761c
+ms.sourcegitcommit: cf1db1b6138ad34406183a2735eab11b3293b130
+ms.translationtype: HT
+ms.contentlocale: nl-BE
+ms.lasthandoff: 10/21/2022
+ms.locfileid: "148103189"
 ---
-# learn.microsoft.com - Gebruiksvoorwaarden
+# <a name="learnmicrosoftcom---terms-of-use"></a>learn.microsoft.com - Gebruiksvoorwaarden
 
 ## Instemming met de Voorwaarden
 
-De volgende Gebruiksvoorwaarden zijn van toepassing op uw gebruik van de Microsoft Learn-website ([https://learn.microsoft.com](https://learn.microsoft.com)), Microsoft Learn-profiel en de gerelateerde diensten. Microsoft behoudt zich het recht voor om deze Gebruiksvoorwaarden op elk gewenst moment en zonder voorafgaande kennisgeving aan te passen. U vindt de nieuwste versie van deze Gebruiksvoorwaarden door te klikken op de gelijknamige koppeling onderaan onze webpagina's.
+De volgende Gebruiksvoorwaarden zijn van toepassing op uw gebruik van de Microsoft Learn-website ([https://learn.microsoft.com](https://learn.microsoft.com)), Tech Profile en de gerelateerde diensten. Microsoft behoudt zich het recht voor om deze Gebruiksvoorwaarden op elk gewenst moment en zonder voorafgaande kennisgeving aan te passen. U vindt de nieuwste versie van deze Gebruiksvoorwaarden door te klikken op de gelijknamige koppeling onderaan onze webpagina's.
 
 ## Beschrijving van dienst
 
-Door middel van de Microsoft Learn-website, Microsoft Learn en gerelateerde diensten biedt Microsoft u toegang tot diverse informatiebronnen, met inbegrip van interactieve trainingstutorials, documentatie, video's, ontwikkelaarstools, downloadgebieden, communicatieforums en productinformatie (tezamen de “Diensten”). Op de Diensten, met inbegrip van eventuele updates, uitbreidingen, nieuwe functionaliteit, en/of de toevoeging van nieuwe webmogelijkheden zijn de Gebruiksvoorwaarden van toepassing.
+Door middel van de Microsoft Learn-website, Tech Profile en gerelateerde diensten biedt Microsoft u toegang tot diverse informatiebronnen, met inbegrip van interactieve trainingen, documentatie, video's, ontwikkelaarstools, downloadgebieden, communicatieforums en productinformatie (tezamen de “Diensten”). Op de Diensten, met inbegrip van eventuele updates, uitbreidingen, nieuwe functionaliteit, en/of de toevoeging van nieuwe webmogelijkheden zijn de Gebruiksvoorwaarden van toepassing.
 
 ## Beperking tot persoonlijk en niet-commercieel gebruik.
 
@@ -66,13 +74,13 @@ U hebt mogelijk een Microsoft-account, Azure Active Directory-account of Microso
 
 **Azure Active Directory-account**. U kunt een account hebben bij Microsoft via een organisatie waartoe u behoort. Neem contact op met de beheerder van uw organisatie voor informatie over dit account.
 
-**Microsoft Learn-profileaccount**. Met uw Microsoft Learn-profielaccount kunt u inloggen op de Microsoft Learn-website en gebruik maken van de gerelateerde diensten, waaronder gratis toegang tot trainingsmiddelen, het deblokkeren van prestaties, ratings, commentaar, het plaatsen van inhoud en het gebruik van andere interactieve diensten. U kunt een Microsoft Learn-profielaccount aanmaken door een gebruikersnaam te maken in Microsoft Learn Profile nadat u hebt ingelogd met een Microsoft-account of een Azure Active Directory-account.
+**Tech Profile-account**. Met uw Tech Profile-account kunt u inloggen op de Microsoft Learn-website en gebruik maken van de gerelateerde diensten, waaronder gratis toegang tot trainingsmiddelen, het deblokkeren van prestaties, beoordelingen, commentaar, het plaatsen van inhoud en het gebruik van andere interactieve diensten. U kunt een Tech Profile-account aanmaken door een gebruikersnaam aan te maken in Tech Profile nadat u zich hebt aangemeld met een Microsoft-account of een Azure Active Directory-account.
 
 U stemt ermee in geen valse, onjuiste of misleidende gegevens te gebruiken tijdens uw aanmelding voor een Microsoft Learn-profielaccount. U bent zelf volledig verantwoordelijk voor het in stand houden van de geheimhouding van uw wachtwoord en account. Verder bent u volledig verantwoordelijk voor alle activiteiten die op uw account plaatsvinden. U stemt ermee in dat u Microsoft onmiddellijk op de hoogte stelt over enig gebruik van uw account door onbevoegden of enige andere beveiligingsinbreuk. Microsoft is niet aansprakelijk voor enig geleden verlies ten gevolge van gebruik van uw account of wachtwoord door derden, ongeacht of dat met of zonder uw medeweten gebeurde. U kunt zelf wel aansprakelijk worden gehouden voor door Microsoft of een andere partij geleden verlies als gevolg van gebruik van uw account of wachtwoord door iemand anders. Het is u te allen tijde niet toegestaan het account van iemand anders te gebruiken zonder toestemming van de accounteigenaar.
 
 Indien u een Microsoft Learn-profielaccount maakt namens een entiteit, bijvoorbeeld uw bedrijf of werkgever, verklaart u dat u beschikt over de wettelijke bevoegdheid om de betreffende entiteit te binden aan deze Voorwaarden. U mag uw Microsoft Learn-profielaccountgegevens niet overdragen aan een andere gebruiker of entiteit. Houd uw accountgegevens geheim om uw account te beschermen. U bent verantwoordelijk voor alle activiteiten die plaatsvinden in het kader van uw Microsoft Learn-profielaccount.
 
-U kunt uw Microsoft Learn-profielaccount sluiten via de instellingen van uw Microsoft Learn-profielaccount.
+U kunt uw Tech Profile-account sluiten via de instellingen van uw Tech Profile-account.
 
 ## Geen onrechtmatig of verboden gebruik
 
